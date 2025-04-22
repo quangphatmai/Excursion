@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.center {
+    text-align: center;
+}
+header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+.clickable-download {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    display: block;
+    margin: 2rem 0;
+}   
